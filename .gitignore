@@ -7,7 +7,6 @@ __pycache__/
 *$py.class
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -16,6 +15,5 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Data files
-*.xlsx
+# Jupyter
 .ipynb_checkpoints/
